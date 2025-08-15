@@ -1,4 +1,4 @@
-# Student Grade Cacluator
+# Student Grade Cacluator demonstrating file handling, lists, and dictionaries
 import os
 import json
 
